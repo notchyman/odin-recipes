@@ -1,0 +1,31 @@
+
+h1 {
+    border: 5px solid lightgreen;
+    display: inline;
+    padding: 4px;    
+    background-color: lightcoral;
+}
+
+h3 {
+    text-align: center;
+}
+
+span {
+    border: 5px solid lightgreen;
+    background-color: lightcoral;
+}
+
+.linkhover:hover {
+    color: red;
+    background-color: yellow;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: 5px solid lightgreen;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
+}
+
